@@ -1,3 +1,3 @@
 
 # SupeRresolution
-generated as a template for uploading Jack code
+GitHub reposity created for jack to upload his codes
